@@ -1,4 +1,4 @@
-import sys; sys.stdin=open('input.txt','r')
+import sys; sys.stdin=open('../input.txt', 'r')
 
 def bracket_check(str):
     stack = []
